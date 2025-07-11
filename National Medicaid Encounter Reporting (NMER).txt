@@ -1,0 +1,95 @@
+
+# National Medicaid Encounter Reporting (NMER)
+
+This document provides an overview of NMER’s services, impact, and alignment with enterprise goals.
+
+## Executive Summary
+
+NMER is a national shared service integrating technology, relationship management, and offshore operations to ensure regulatory compliance and data quality for Medicaid encounter reporting.
+
+## Our Customers
+
+**Internal:**
+- KP Regional Medicaid Health Plans
+- National Medicaid Operations
+- Health Plan Compliance
+- Regional Finance & Actuarial Services
+
+**External:**
+- 13 Plan Partners
+- Multiple state Departments of Health Care Services
+
+## Business Impact
+
+- Resolved multiple DHCS corrective actions and fines
+- Achieved 99.8% acceptance rate by partners and states
+- Realized $8M+ annually in supplemental Medicaid revenue
+
+## Business Capabilities
+
+- Implements encounter reporting and offshore error management
+- Manages plan partner relationships
+- Supports audits and monitors submission quality
+
+## 2023 Key Strategic Programs
+
+- Implement CA Medicaid Direct contract
+- Eliminate $2M/year in TransUnion fees via EDI/error correction
+- Complete Risk Adjustment setup
+- Launch GA and VA Medicaid encounter services
+- Modernize technology stack (reduce SAS footprint)
+
+## Technology Stack
+
+- SAS on SAS Grid
+- Informatica PowerCenter
+- Oracle
+- Tableau
+
+## Our Services
+
+- Regulatory data reporting and extract/analytics
+- Quality editing for encounter, claims, membership, and provider data
+- Error correction, remediation, and re-submission
+- Dashboard-based monitoring and audit support
+
+## Unique Skills and Value
+
+1. **Comprehensive Data Management:** Full spectrum reporting (encounter, claims, membership, providers)
+2. **Advanced Tech Integration:** Uses SAS, Informatica, Oracle, and Tableau
+3. **Regulatory Compliance:** Applies edits per state and federal mandates
+4. **Error Management:** Dedicated systems for remediation and resubmission
+5. **Regulator Relationship Management:** Proactive influence on requirements and formats
+6. **Data Analysis and Support:** Insights for rate setting, risk scoring, and utilization
+7. **Quality Monitoring:** Dashboards to ensure extract completeness and accuracy
+8. **Strategic Planning:** Programs to reduce costs and modernize infrastructure
+
+## Required Skills
+
+- Proficiency in SAS, Informatica, Oracle, and Tableau
+- Strong knowledge of compliance mandates
+- Ability to manage regulatory and partner relationships
+- Competence in auditing and analytics for rate-setting and risk scoring
+- Familiarity with error handling and submission workflows
+
+## Job Profiles
+
+- **Data Analysts/Scientists:** Oversee data quality and analytics
+- **IT Specialists:** Maintain technology stack and error management systems
+- **Compliance Officers:** Ensure data accuracy and legal adherence
+- **Relationship Managers:** Engage with state and federal regulators
+- **Strategic Planners:** Lead new initiatives and cost-saving programs
+
+## Alignment with Health Plan Goals
+
+- **Ease of Business:** Tech and data integration simplifies operations
+- **E2E Experience:** Seamless submission and monitoring systems
+- **Retention Innovation:** Data analysis supports retention strategy
+- **Administrative Efficiency:** Cuts costs via modernization
+- **Brand Affinity:** High compliance boosts reputation
+- **National Capabilities:** Scalable, multi-state relationships and tech
+- **Rate & Product Agility:** Data insights drive pricing and innovation
+- **Medicaid/D-SNP Growth:** Accurate data enables sustainable scaling
+- **Smart Investments:** Strategic programs align with financial goals
+- **Medicare Wins:** Accurate, timely data supports competitive advantage
+- **Workplace Value:** Future-focused culture drives excellence
