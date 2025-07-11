@@ -1,0 +1,113 @@
+
+# National Electronic Data Interchange (EDI) Business Operations (NEBO)
+
+This document provides a comprehensive overview of NEBO’s structure, responsibilities, strategic priorities, and alignment with enterprise goals.
+
+## Executive Summary
+
+NEBO ensures efficient processing of healthcare administrative transactions, code sets, and identifiers electronically for all KP regions, in a secure, HIPAA-compliant environment.
+
+## Budget and Staffing (2023)
+
+- Total budget: $42M
+  - Core: $4.7M
+  - Software: $7.2M
+  - Business/IT: $16.5M / $13.3M
+- Team: 23 employees, 5 contractors, 8 consultants
+
+## Our Customers
+
+**Internal:**
+- National Claims Administrations (NCA)
+- KP Revenue Cycle Management
+- Medicare & Medicaid Encounter Reporting
+- KPIC Care Management and Operations
+- Sales, Account Management, Membership Admin, IT
+
+**External:**
+- Clearinghouses, Trading Partners, Employer Groups
+- Providers, Direct Submitters, TPAs, Brokers, Consultants
+
+## Business Impact
+
+- Oversees 1+ billion EDI transactions annually
+- Implements 1,700+ enrollment files with TPAs/employers
+- Maintains HIPAA compliance, avoiding regulatory penalties
+
+## Core Capabilities
+
+- Streamlines EDI for claims and membership transactions
+- Reduces paper-handling errors and costs
+- Enables faster, higher-quality, and compliant data processing
+
+## Key Strategic Programs
+
+- Support for Cigna Out of Area (OOA) EDI integrations
+- Development of Healthcare Attachments & E-Signature standards
+- Contributions to KPMC and KPCC modernization
+
+## Services Provided
+
+- Manages contracts, guides, testing, implementations, and support
+- Coordinates with industry and internal stakeholders
+- Leads open enrollment EDI testing for employer groups
+
+## Regulatory Responsibilities
+
+- Interprets new federal simplification rules
+- Acts as business liaison to standard-setting organizations
+
+## Application Ownership
+
+- KP EDI Gateway (KPEG)
+- National Claims Router (NCR)
+- CMS Interoperability APIs and Portals
+
+## Code Sets Oversight
+
+- Manages Optum and AMA code sets
+- Supports Medicare reimbursement and risk adjustment
+
+## NEBO’s Unique Value
+
+1. **End-to-end EDI capabilities**: Secure, standards-based data exchange across KP
+2. **Regulatory compliance**: Interprets and implements HIPAA & API rules
+3. **Health Plan APIs**: Empowers third-party access for members and partners
+4. **Customer management**: Coordinates with internal/external stakeholders
+5. **Application management**: BAO for key EDI and claims systems
+6. **Code sets governance**: Critical to Medicare and risk management
+
+## Recommended Roles and Skills
+
+**Skills Needed:**
+- EDI transaction management
+- HIPAA and regulatory interpretation
+- API development and interoperability
+- Stakeholder management
+- Application and release management
+- Clinical code set administration
+
+**Job Profiles:**
+- EDI Specialists
+- Regulatory Compliance Officers
+- Customer Relationship Managers
+- Program Managers (Regulatory/API)
+- Business Application Owners
+- Code Set Analysts
+
+## Alignment with Health Plan Goals
+
+- **Ease of Business**: Through strong customer management
+- **End-to-End Experience**: Powered by seamless EDI processes and APIs
+- **Retention**: Supported by compliance and accurate data
+- **Admin Efficiency**: Lowered costs via automation and governance
+- **Brand Growth**: Trusted interfaces with partners
+- **Capability Building**: Shared knowledge and system ownership
+- **New Product Readiness**: Fast integration of compliance-driven change
+- **Medicaid/D-SNP Growth**: Scalable, standards-aligned operations
+- **Strategic Investment**: Platform stewardship and rule interpretation
+- **Medicare Success**: Through risk-adjusted data and code accuracy
+- **Workplace Excellence**: Role clarity, ownership, and mission impact
+
+
+
