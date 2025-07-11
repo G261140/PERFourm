@@ -1,0 +1,64 @@
+
+# Pricing, EDI, and Reporting (PER)
+
+## Mission
+Deliver enterprise-scale pricing, data exchange, and reporting solutions that optimize healthcare affordability, compliance, efficiency, and insight generation across the Kaiser Permanente Health Plan ecosystem.
+
+## Vision
+Be the national leader in data-driven pricing strategies, seamless electronic data interchange, and actionable reporting for performance, compliance, and innovation in healthcare delivery.
+
+## Strategic Objectives
+1. Design an end-to-end pricing experience that supports innovation, equity, and accuracy.
+2. Optimize data transparency and regulatory alignment through advanced EDI standards and governance.
+3. Drive enterprise value through scalable, timely, and intelligent reporting frameworks.
+4. Foster a data-first culture that empowers decision-makers at all levels.
+5. Advance modernization efforts through AI, automation, and cloud migration.
+
+## Departments Under PER
+
+### 1. National Pricing Solutions (NPS)
+**Function**: Designs, develops, and operates the pricing systems, tools, and architectures that support KP’s national and regional pricing strategies.  
+**Subdomains**:
+- Pricing Models & Underwriting
+- Sales Quote Automation
+- Business Intelligence Reporting
+- Compliance & Regulatory Reporting
+- Data Architecture
+- Innovation Pipeline (e.g., BRIDGE Program)
+
+### 2. National Electronic Data Interchange (NEBO)
+**Function**: Ensures the integrity and operational flow of all inbound/outbound EDI transactions, supporting claims, enrollment, eligibility, authorizations, and more.  
+**Focus Areas**:
+- EDI compliance with HIPAA standards
+- Trading partner onboarding and support
+- Encounter data validation and resolution
+- Audit and traceability tools
+
+### 3. National Medicaid Encounter Reporting (NMER)
+**Function**: Responsible for the collection, validation, transformation, and submission of Medicaid encounter data to state agencies.  
+**Focus Areas**:
+- Regulatory alignment with state Medicaid rules
+- Data quality validation, cleansing, and transformation
+- Integrated encounter dashboards and compliance audits
+- Submission performance and rejection resolution
+
+### 4. Pricing Data Extracts & Support (PDES)
+**Function**: Manages pricing data distribution and support for downstream consumers, ensuring timely, accurate access to critical datasets across markets and business units.  
+**Focus Areas**:
+- Pricing data extract generation and automation
+- External and internal partner support
+- SLA management and quality assurance
+- Cross-system reconciliation and tracking
+
+### 5. Pricing Systems and Data Operations (PSDO)
+**Function**: Maintains core system and process operations, enabling secure and scalable delivery of pricing capabilities.  
+**Focus Areas**:
+- System performance monitoring and dashboards
+- Project portfolio and resource management
+- Continuous improvement and workforce enablement
+- Standard operating procedures and training content
+
+## Cross-Departmental Initiatives
+- **Innovation Pipeline (BRIDGE)**: Cross-functional idea capture and experimentation program.
+- **Azure Data Modernization**: Transition to cloud-based pricing and reporting architecture.
+- **Compliance Automation**: Alignment with CMS/state rules via data-driven compliance engines.
