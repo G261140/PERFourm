@@ -1,0 +1,56 @@
+# Pricing Services and Data Operations (PSDO) – Structured Overview
+
+## 1. Introduction
+The Pricing Services and Data Operations (PSDO) department delivers business value through improved processes, methodologies, and services. With 6 employees and 2 contractors, PSDO provides a compact yet efficient operational model.
+
+## 2. Unique Skills and Values
+- **Performance Measurement and Value Demonstration**: Project and service portfolio management, operational metrics, and dashboard support.
+- **Communication and Collaboration**: Training roadmap for tech changes, fostering engagement and innovation through learning series.
+- **Process and Continuous Improvement**: Process definition, refinement, and automation to increase service efficiency.
+- **Strategic Programs and Initiatives**: Focus on collaboration, employee satisfaction, and support for modernization efforts.
+- **Business Services**:
+  - Commercial claims and EBC data delivery
+  - Program and project support for PDES
+  - Monitoring SAS Grid usage
+  - Creating annual Pricing release calendars
+  - Managing data transmission and recurring data extracts
+- **Metrics**:
+  - Consultative support and PowerBI dashboard development
+- **Business Impact**:
+  - Delivers commercial large group claims and EBC data for actuary rate modeling
+  - Provides shared services to reduce cost and improve efficiency
+
+## 3. Skills and Job Profiles
+
+### Skills
+1. Performance tracking and value demonstration
+2. Training and employee engagement
+3. Process automation and optimization
+4. Program and project delivery
+5. Data quality, validation, and analytics
+
+### Job Profiles
+- **Project Managers**: Portfolio oversight, delivery timelines, budget adherence
+- **Communication Specialists**: Engagement, training, and innovation facilitation
+- **Process Improvement Analysts**: Process efficiency and automation
+- **Strategic Planners**: Drive modernization and collaboration
+- **Data Analysts**: Support metrics and reporting via PowerBI
+
+## 4. Alignment with HP Organizational Goals
+
+| HP Goal | PSDO Alignment |
+|--------|----------------|
+| Be Easy to Do Business With | Operational improvements and process efficiency |
+| Design HP End-to-End Experience | Service portfolio and dashboard support |
+| Reimagine Retention | Rate modeling through commercial claims and EBC delivery |
+| Improve Admin Cost Structure | Shared services and resource optimization |
+| Drive Brand Affinity | Employee engagement and productivity focus |
+| Build National HP Capabilities | Strategic collaboration and ideation initiatives |
+| Regain Rate Position | Support of timely and accurate claims processing |
+| Maximize Medicaid and D-SNP Performance | Value demonstration and continuous improvement |
+| Make Right Health Plan Investments | Strategic planning and portfolio management |
+| Win in Medicare | Operational service improvements and innovation |
+| Best Place to Work | Training, engagement, and skill development focus |
+
+## 5. Conclusion
+PSDO contributes significantly to HP’s success by leveraging its unique strengths in performance measurement, continuous improvement, and strategic collaboration. It is a model of a lean, effective, and innovation-driven department aligned with enterprise goals.
