@@ -1,3 +1,71 @@
+# Kaiser Foundation Health Plan (KFHP)
+
+## Business Purpose
+KFHP administers health insurance products and manages member relationships, benefits, compliance, and funding across all Kaiser Permanente regions. It ensures that the health plans are aligned with regulatory compliance, financial stewardship, and quality healthcare delivery.
+
+## Organizational Scope
+KFHP operates as the insurance and administrative arm of Kaiser Permanente. It functions across 8 regions and supports over 12 million members, delivering care through both owned and partnered networks.
+
+## Key Business Capabilities
+
+### 1. Health Plan Operations
+- Administers individual, group, Medicare, and Medicaid plans
+- Manages enrollment, premium billing, and member services
+
+### 2. Product and Benefit Design
+- Develops cost-sharing models and covered service definitions
+- Aligns benefits with market needs and regulations
+
+### 3. Provider Network Coordination
+- Maintains contracts with Permanente Medical Groups (PMGs)
+- Manages third-party specialty and out-of-area provider access
+
+### 4. Compliance and Regulatory Oversight
+- Oversees CMS, ACA, state DMHC/DOI compliance
+- Leads audits, filings, and regulatory communications
+
+### 5. Quality and Performance Programs
+- Drives HEDIS, STAR, CAHPS performance
+- Implements member satisfaction and health outcome improvements
+
+### 6. Medicare and Medicaid Administration
+- Manages bids, risk adjustment, and encounter data
+- Operates Medicaid Managed Care contracts in several states
+
+### 7. Strategic Planning and Growth
+- Leads product expansion, acquisition, and retention strategies
+- Drives market and membership growth initiatives
+
+### 8. Technology and Data Management
+- Oversees claims, eligibility, customer service platforms
+- Sponsors modernization including cloud and AI solutions
+
+## Customers
+
+### Internal
+- Regional Health Plans
+- Clinical Quality and Operations
+- Permanente Medical Groups
+- Marketing and Sales
+- Actuarial and Pricing
+
+### External
+- State and Federal Regulators (CMS, DMHC, DOI)
+- Employer Groups
+- Brokers
+- Medicare and Medicaid members
+
+## Business Impact
+- Serves over 12 million members across 8 regions
+- Key driver of national health plan growth, retention, and compliance
+- Enables high-quality care delivery through efficient plan administration
+
+## Strategic Initiatives
+- Digital-first experience transformation
+- Expansion in Medicaid and Medicare markets
+- Cloud and data modernization
+- Risk-based and value-based contracting alignment
+
 # National Health Plan — Focused Goals
 
 This document outlines the strategic focus goals for the National Health Plan (NHP). These goals represent the top priorities across business operations, customer experience, and long-term sustainability.
